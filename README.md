@@ -4,7 +4,7 @@ All of my custom Rich Presence preset files - https://github.com/maximmax42/Disc
 
 
 Request any by joining my discord and DMming - pxmpkxns
-
+https://discord.gg/36Z4u8Q5uN
 
 
 
