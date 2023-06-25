@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1121844139051458631</ID>
+  <Details>Listening to AutoDJ</Details>
+  <State />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2023-06-24T15:21:02</CustomTimestamp>
+  <LargeKey>https://raw.githubusercontent.com/ItsHits/website/main/HitsFM_logo.png?token=GHSAT0AAAAAACEDPQZTOWQOSE4YUYG7CSPSZEW7SBQ</LargeKey>
+  <LargeText>HitsFM</LargeText>
+  <SmallKey />
+  <SmallText />
+  <Button1Text>Listen Now</Button1Text>
+  <Button1URL>https://hitsfm.xyz/</Button1URL>
+  <Button2Text />
+  <Button2URL />
+</Preset>
